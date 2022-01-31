@@ -23,4 +23,3 @@ const Queue = () =>{
 }
 
 const queue = Queue()
-queue.remove()
